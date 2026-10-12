@@ -8,7 +8,7 @@ This project was developed as part of an **AI/ML Summer Training Capstone Projec
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo!
 
 **Streamlit Application:**
 https://aiml-project1.streamlit.app/
